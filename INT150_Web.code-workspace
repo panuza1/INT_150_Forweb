@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BACKEND"
+		},
+		{
+			"path": "../MQTT"
+		},
+		{
+			"path": "../programming"
+		},
+		{
+			"path": "../my-web"
+		},
+		{
+			"path": "../nodejs_crud_db"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "INT150_Web"
+	}
+}
